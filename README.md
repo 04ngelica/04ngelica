@@ -10,6 +10,8 @@
 - <b> Individual Wages as a Function of Demographics and Geographical Characteristics </b>
 - <b> DiD Model for the Castle Doctrine </b>
 - <b> Industrial Production as a Function of Macroeconomic Characteristics </b>
+- <b> Predicting the Probability for Loan Application Approval Based on Observable Characteristics of the Applicant </b>
+
 
 
 <!--
