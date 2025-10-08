@@ -12,6 +12,10 @@
 - <b> Industrial Production as a Function of Macroeconomic Characteristics </b>
 - <b> Predicting the Probability for Loan Application Approval Based on Observable Characteristics of the Applicant </b>
 
+<h2> Econ-related Course Papers/Projects </h2>
+
+- <b> Macroeconomic Analysis of Thailand and Argentina </b>
+- <b> Risk in the US Financial System [currently in progress]</b>
 
 
 <!--
