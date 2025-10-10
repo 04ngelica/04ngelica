@@ -15,7 +15,6 @@
 <h2> Econ-related Course Papers/Projects </h2>
 
 - <b> Macroeconomic Analysis of Thailand and Argentina </b>
-  - <a href="[https://github.com/04ngelica/AppliedEconometricsThesis](https://docs.google.com/document/d/1F6BHEB-GvHUL1-QSjuwlRhFsEOXt5c7ivFoxVjhTbFk/edit?usp=sharing)">Check out the paper here!</a>
 - <b> Risk in the US Financial System [currently in progress]</b>
 
 
