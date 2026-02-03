@@ -18,7 +18,7 @@
 - <b> Risk in the US Financial System: An Analysis on US Corporate Default Risk & Credit Risk, Tariffs Impacting Housing Prices, and Pension System Uncertainty; Historical Lessons from the Great Recession and Financial Regulatory Acts </b>
 
 <h2> Hospitality-related Course Projects </h2>
-- <b> Event Planning: Event Concept on Campus ($750 Budget) </b>
+- <b>Event Planning: Event Concept on Campus ($750 Budget) </b>
 
 - <b> Hospitality Entrepreneurship & Gastronomy: Third Space Restaurant and Bar Business Plan </b>
 <!--
