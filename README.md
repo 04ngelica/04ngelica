@@ -15,7 +15,7 @@
 <h2> Econ-related Course Papers/Projects </h2>
 
 - <b> Macroeconomic Analysis of Thailand and Argentina </b>
-- <b> Risk in the US Financial System [currently in progress]</b>
+- <b> Risk in the US Financial System: An Analysis on US Corporate Default Risk & Credit Risk, Tariffs Impacting Housing Prices, and Pension System Uncertainty; Historical Lessons from the Great Recession and Financial Regulatory Acts </b>
 
 
 <!--
