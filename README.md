@@ -18,8 +18,9 @@
 - <b> Risk in the US Financial System: An Analysis on US Corporate Default Risk & Credit Risk, Tariffs Impacting Housing Prices, and Pension System Uncertainty; Historical Lessons from the Great Recession and Financial Regulatory Acts </b>
 
 <h2> Hospitality-related Course Projects </h2>
-- Event Planning: Event Concept on Campus ($750 Budget)
-- Hospitality Entrepreneurship & Gastronomy: Third Space Restaurant and Bar Business Plan
+- <b> Event Planning: Event Concept on Campus ($750 Budget) </b>
+
+- <b> Hospitality Entrepreneurship & Gastronomy: Third Space Restaurant and Bar Business Plan </b>
 <!--
 **04ngelica/04ngelica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
