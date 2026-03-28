@@ -14,6 +14,7 @@
 
 <h2> Econ-related Course Papers/Projects </h2>
 
+- <b> Impacts of Rising Fuel Prices, the AI Sector, and the Recent Fed Policy on the Financial System in the US </b>
 - <a href="https://docs.google.com/document/d/1lOSc0zvOAEiLD3XIAoMsVoepO4Gi1Y59153BGLtL7mk/edit?usp=sharing"> Macroeconomic Analysis of Thailand and Argentina </a>
 - <a href="https://docs.google.com/document/d/1hx1bBjbALwrZga1xnE-KZP1mkrQWb5krMsYC-SnNaE8/edit?usp=sharing"> Risk in the US Financial System: An Analysis on US Corporate Default Risk & Credit Risk, Tariffs Impacting Housing Prices, and Pension System Uncertainty; Historical Lessons from the Great Recession and Financial Regulatory Acts </a>
 
