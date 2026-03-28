@@ -7,7 +7,6 @@
 
 <h2> Stata Projects </h2>
 
-<h3> Course: ECON 427: Applied Econometrics Capstone </h3>
 - <b> Individual Wages as a Function of Demographics and Geographical Characteristics </b>
 - <b> DiD Model for the Castle Doctrine </b>
 - <b> Industrial Production as a Function of Macroeconomic Characteristics </b>
