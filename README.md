@@ -21,6 +21,8 @@
 
 - <a href="https://www.canva.com/design/DAHFQUpdWeE/5CoAwSOvdMh22rWVAxd7wA/edit?utm_content=DAHFQUpdWeE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">Event Planning: Event Concept on Campus ($750 Budget) </a>
 - <a href="https://www.canva.com/design/DAG5Kja2iUo/eAFMYYS8Ax48c829x38l6A/edit?utm_content=DAG5Kja2iUo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"> Hospitality Entrepreneurship & Gastronomy: Third Space Restaurant and Bar Business Plan </a>
+- <a href="https://www.canva.com/design/DAHDrpM0eok/8dCwfk2KMCHfOFSk7iat7A/edit?utm_content=DAHDrpM0eok&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">Mock Restaurant and Beverage Menu - Paper Plane </a>
+- <b> Service System Design Project </b>
 <!--
 **04ngelica/04ngelica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
