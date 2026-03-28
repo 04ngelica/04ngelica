@@ -14,13 +14,13 @@
 
 <h2> Econ-related Course Papers/Projects </h2>
 
-- <b> Macroeconomic Analysis of Thailand and Argentina </b>
-- <b> Risk in the US Financial System: An Analysis on US Corporate Default Risk & Credit Risk, Tariffs Impacting Housing Prices, and Pension System Uncertainty; Historical Lessons from the Great Recession and Financial Regulatory Acts </b>
+- <a href="https://docs.google.com/document/d/1lOSc0zvOAEiLD3XIAoMsVoepO4Gi1Y59153BGLtL7mk/edit?usp=sharing"> Macroeconomic Analysis of Thailand and Argentina </a>
+- <a href="https://docs.google.com/document/d/1hx1bBjbALwrZga1xnE-KZP1mkrQWb5krMsYC-SnNaE8/edit?usp=sharing"> Risk in the US Financial System: An Analysis on US Corporate Default Risk & Credit Risk, Tariffs Impacting Housing Prices, and Pension System Uncertainty; Historical Lessons from the Great Recession and Financial Regulatory Acts </a>
 
 <h2> Hospitality-related Course Projects </h2>
 
-- <b>Event Planning: Event Concept on Campus ($750 Budget) </b>
-- <b> Hospitality Entrepreneurship & Gastronomy: Third Space Restaurant and Bar Business Plan </b>
+- <a href="https://www.canva.com/design/DAHFQUpdWeE/5CoAwSOvdMh22rWVAxd7wA/edit?utm_content=DAHFQUpdWeE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">Event Planning: Event Concept on Campus ($750 Budget) </a>
+- <a href="https://www.canva.com/design/DAG5Kja2iUo/eAFMYYS8Ax48c829x38l6A/edit?utm_content=DAG5Kja2iUo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"> Hospitality Entrepreneurship & Gastronomy: Third Space Restaurant and Bar Business Plan </a>
 <!--
 **04ngelica/04ngelica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
