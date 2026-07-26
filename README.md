@@ -34,7 +34,7 @@
   - <b> Course: BUS 380: Hospitality Entrepreneurship & Gastronomy </b>
 - <a href="https://www.canva.com/design/DAHDrpM0eok/8dCwfk2KMCHfOFSk7iat7A/edit?utm_content=DAHDrpM0eok&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">Mock Restaurant and Beverage Menu - Paper Plane </a>
   - <b> Course: BUS 387: Beverage Management </b>
-- <b> Service System Design Project </b>
+- <a href="https://canva.link/z8wojaw89mho97k"> Service System Design Project </a>
   - <b> Course: BUS 387: Beverage Management </b>
 <!--
 **04ngelica/04ngelica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
