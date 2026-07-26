@@ -1,5 +1,7 @@
 <h1>Hi, I'm Angelica!</h1>
-<b> Here is a portfolio of projects I've worked on in my academia. I am super passionate about my academic career and have poured a lot of hard work into understanding and honing in on these topics. I am super excited to be sharing it! </b>
+<b> Here is a portfolio of (most) of the projects I've worked on in my academia. I am super passionate about my academic career and have poured a lot of hard work into understanding and honing in on these topics. I am super excited to be sharing it! </b>
+
+<h2> *Hospitality related projects are at the bottom! </h2>
 
 <h2> My Applied Econometrics Capstone Thesis Paper</h2>
 
