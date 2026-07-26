@@ -1,5 +1,5 @@
 <h1>Hi, I'm Angelica!</h1>
-<b> Here is a portfolio of (most) of the projects I've worked on in my academia. I am super passionate about my academic career and have poured a lot of hard work into understanding and honing in on these topics. I am super excited to be sharing it! I am an Economics graduate with a minor in Hospitality Management so find both economics- and hospitality- related projects below! Additionally, many of my projects listed below are viewable, just click on the project title name! </b>
+<b> Here is a portfolio of (most) of the projects I've worked on in my academia. I am super passionate about my academic career and have poured a lot of hard work into understanding and honing in on these topics. I am excited to be sharing it! I am an Economics graduate with a minor in Hospitality Management so you will find both economics- and hospitality- related projects below! Additionally, many of my projects listed below are viewable, just click on the project title name! </b>
 
 <h2> My Applied Econometrics Capstone Thesis Paper</h2>
 
