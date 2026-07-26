@@ -3,8 +3,8 @@
 
 <h2> My Applied Econometrics Capstone Thesis Paper</h2>
 
-- <b> Transportation Mobility and Economic Disparities: Analyzing the Impact of Travel Delays on Poverty Rates </b>
-  - <a href="https://github.com/04ngelica/AppliedEconometricsThesis">An Instrumental Variable with Fixed Effects Panel Study on 5 US counties</a>
+- <a href="https://github.com/04ngelica/AppliedEconometricsThesis"> Transportation Mobility and Economic Disparities: Analyzing the Impact of Travel Delays on Poverty Rates </a>
+  - <b> An Instrumental Variable with Fixed Effects Panel Study on 5 US counties</b>
 
 <h2> Stata Projects </h2>
 <h3> Course: ECON 427: Applied Econometrics Capstone </h3>
