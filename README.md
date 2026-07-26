@@ -19,7 +19,7 @@
 
 <h2> Econ Course Papers/Projects </h2>
 
-- <b> Impacts of Rising Fuel Prices, the AI Sector, and the Recent Fed Policy on the Financial System in the US </b>
+- <a href="https://docs.google.com/document/d/1b1DzpcH5nmfhYi4yT-ZV0DMeqSY9udn1XAdx_1ei4EY/edit?usp=sharing"> Impacts of Rising Fuel Prices, the AI Sector, and the Recent Fed Policy on the Financial System in the US </a>
   - <b> Course: ECON 451: Monetary Economics
 - <a href="https://docs.google.com/document/d/1hx1bBjbALwrZga1xnE-KZP1mkrQWb5krMsYC-SnNaE8/edit?usp=sharing"> Risk in the US Financial System: An Analysis on US Corporate Default Risk & Credit Risk, Tariffs Impacting Housing Prices, and Pension System Uncertainty; Historical Lessons from the Great Recession and Financial Regulatory Acts </a>
   - Course: ECON 350: Money, Banking, and Financial Institutions
