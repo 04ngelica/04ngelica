@@ -25,7 +25,8 @@
 
 <h2> Hospitality-related Course Projects </h2>
 
-<a href="https://docs.google.com/document/d/1USwL229NzYaomCrnLrMD0O6WzUIq3JnsY_MPjW5ZDPs/edit?usp=sharing"> Event Planning: Community Impact through a Large-scale Event </a>
+- <a href="https://docs.google.com/document/d/1USwL229NzYaomCrnLrMD0O6WzUIq3JnsY_MPjW5ZDPs/edit?usp=sharing"> Event Planning: Community Impact through a Large-scale Event </a>
+  - <b> Course: BUS 386: Event Planning with a Purpose </b>
 - <a href="https://www.canva.com/design/DAHFQUpdWeE/5CoAwSOvdMh22rWVAxd7wA/edit?utm_content=DAHFQUpdWeE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">Event Planning: Event Concept on Campus ($750 Budget) </a>
   - <b> Course: BUS 386: Event Planning with a Purpose </b>
 - <a href="https://www.canva.com/design/DAG5Kja2iUo/eAFMYYS8Ax48c829x38l6A/edit?utm_content=DAG5Kja2iUo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"> Hospitality Entrepreneurship & Gastronomy: Third Space Restaurant and Bar Business Plan </a>
